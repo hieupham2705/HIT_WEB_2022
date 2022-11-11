@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+}
+.img{
+    position: relative;
+    height: 400px;
+    width: 300px;
+}
+.img-img {
+    width: auto;
+    height: 100%;
+}
+p{
+    position: absolute;
+    bottom: 0;
+}
